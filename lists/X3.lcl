@@ -1,0 +1,408 @@
+GROUP Game
+COMMAND autopilot
+KEY u
+SHIFT=
+CTRL=
+ALT=
+COMMAND dock
+KEY d
+SHIFT=1
+CTRL=
+ALT=
+COMMAND switch gravidar mode
+KEY m
+SHIFT=1
+CTRL=
+ALT=
+COMMAND eject eject eject
+KEY e
+SHIFT=1
+CTRL=
+ALT=
+KEY {ARROWRIGHT}
+SHIFT=
+CTRL=
+ALT=
+KEY {ENTER}
+SHIFT=
+CTRL=
+ALT=
+COMMAND option one
+KEY 1
+SHIFT=
+CTRL=
+ALT=
+COMMAND option two
+KEY 2
+SHIFT=
+CTRL=
+ALT=
+COMMAND option three
+KEY 3
+SHIFT=
+CTRL=
+ALT=
+COMMAND option four
+KEY 4
+SHIFT=
+CTRL=
+ALT=
+COMMAND option five
+KEY 5
+SHIFT=
+CTRL=
+ALT=
+COMMAND option six
+KEY 6
+SHIFT=
+CTRL=
+ALT=
+COMMAND option seven
+KEY 7
+SHIFT=
+CTRL=
+ALT=
+COMMAND option eight
+KEY 8
+SHIFT=
+CTRL=
+ALT=
+COMMAND option nine
+KEY 9
+SHIFT=
+CTRL=
+ALT=
+COMMAND option zero
+KEY 0
+SHIFT=
+CTRL=
+ALT=
+GROUP Weapons
+COMMAND laser targeting mode
+KEY k
+SHIFT=
+CTRL=
+ALT=
+COMMAND select missile
+KEY m
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon group one
+KEY 1
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon group two
+KEY 2
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon group three
+KEY 3
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon group four
+KEY 4
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapons menu
+KEY g
+SHIFT=
+CTRL=
+ALT=
+GROUP Targeting
+COMMAND track target
+KEY t
+SHIFT=
+CTRL=
+ALT=
+COMMAND target nearest enemy
+KEY t
+SHIFT=1
+CTRL=
+ALT=
+COMMAND target next owned object
+KEY {INSERT}
+SHIFT=
+CTRL=
+ALT=
+COMMAND target previous owned object
+KEY {DEL}
+SHIFT=
+CTRL=
+ALT=
+COMMAND target next enemy
+KEY {HOME}
+SHIFT=
+CTRL=
+ALT=
+COMMAND target previous enemy
+KEY {END}
+SHIFT=
+CTRL=
+ALT=
+GROUP Information
+COMMAND Identify selected object
+KEY i
+SHIFT=
+CTRL=
+ALT=
+COMMAND view details
+KEY u
+SHIFT=
+CTRL=
+ALT=
+COMMAND current ship menu
+KEY y
+SHIFT=
+CTRL=
+ALT=
+COMMAND player menu
+KEY p
+SHIFT=
+CTRL=
+ALT=
+COMMAND sector map
+KEY .
+SHIFT=
+CTRL=
+ALT=
+COMMAND galaxy map
+KEY ,
+SHIFT=
+CTRL=
+ALT=
+COMMAND show on galaxy map
+KEY g
+SHIFT=
+CTRL=
+ALT=
+COMMAND owned property
+KEY r
+SHIFT=
+CTRL=
+ALT=
+COMMAND message log
+KEY l
+SHIFT=
+CTRL=
+ALT=
+GROUP Commands and Management
+COMMAND command console
+KEY c
+SHIFT=1
+CTRL=
+ALT=
+COMMAND command console selected ship
+KEY e
+SHIFT=
+CTRL=
+ALT=
+COMMAND rename object
+KEY m
+SHIFT=
+CTRL=
+ALT=
+COMMAND wingmen attack target
+KEY 6
+SHIFT=1
+CTRL=
+ALT=
+COMMAND wingmen protect me
+KEY 7
+SHIFT=1
+CTRL=
+ALT=
+COMMAND drones attack target
+KEY 8
+SHIFT=1
+CTRL=
+ALT=
+COMMAND drones protect me
+KEY 9
+SHIFT=1
+CTRL=
+ALT=
+GROUP Ships and Stations
+COMMAND Comms
+KEY c
+SHIFT=
+CTRL=
+ALT=
+COMMAND station details
+KEY u
+SHIFT=
+CTRL=
+ALT=
+COMMAND trade with station
+KEY d
+SHIFT=
+CTRL=
+ALT=
+COMMAND read b.b.s. entries
+KEY b
+SHIFT=
+CTRL=
+ALT=
+COMMAND barter goods
+KEY t
+SHIFT=
+CTRL=
+ALT=
+COMMAND landed ships
+KEY l
+SHIFT=
+CTRL=
+ALT=
+COMMAND change ship
+KEY x
+SHIFT=
+CTRL=
+ALT=
+GROUP Freight
+COMMAND freight bay
+KEY f
+SHIFT=
+CTRL=
+ALT=
+COMMAND bay doors
+KEY o
+SHIFT=
+CTRL=
+ALT=
+GROUP Upgrades
+COMMAND seta time accelerator
+KEY j
+SHIFT=
+CTRL=
+ALT=
+COMMAND jumpdrive
+KEY j
+SHIFT=1
+CTRL=
+ALT=
+COMMAND best selling price locator
+KEY 5
+SHIFT=
+CTRL=
+ALT=
+COMMAND best buys locator
+KEY 6
+SHIFT=
+CTRL=
+ALT=
+COMMAND ecliptic projector
+KEY g
+SHIFT=
+CTRL=
+ALT=
+GROUP Interface - General
+COMMAND main menu
+KEY {ENTER}
+SHIFT=
+CTRL=
+ALT=
+COMMAND quick menu
+COMMAND options menu
+KEY o
+SHIFT=1
+CTRL=
+ALT=
+COMMAND load saved game
+KEY {F9}
+SHIFT=
+CTRL=
+ALT=
+COMMAND save current game
+KEY {F12}
+SHIFT=
+CTRL=
+ALT=
+COMMAND quit game
+KEY q
+SHIFT=1
+CTRL=
+ALT=
+GROUP Interface - Views
+COMMAND select view mode
+KEY {F1}
+SHIFT=
+CTRL=
+ALT=
+COMMAND external view
+KEY {F2}
+SHIFT=
+CTRL=
+ALT=
+COMMAND target view
+KEY {F3}
+SHIFT=
+CTRL=
+ALT=
+COMMAND toggle HUD display
+KEY h
+SHIFT=1
+CTRL=
+ALT=
+COMMAND select monitor
+KEY {F4}
+SHIFT=
+CTRL=
+ALT=
+COMMAND select monitor arrangement
+KEY {F5}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom in
+KEY {KP_ADD}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom out
+KEY {KP_SUBTRACT}
+SHIFT=
+CTRL=
+ALT=
+COMMAND select camera mode
+KEY {KP_0}
+SHIFT=
+CTRL=
+ALT=
+COMMAND default view
+KEY {KP_5}
+SHIFT=
+CTRL=
+ALT=
+GROUP Interface - Menus
+COMMAND cancel
+KEY {ESC}
+SHIFT=
+CTRL=
+ALT=
+COMMAND close all menus
+KEY {DEL}
+SHIFT=
+CTRL=
+ALT=
+GROUP Interface - Archival
+COMMAND take screenshot
+GROUP Interface - Maps
+COMMAND change map axis
+KEY {INSERT}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom map in
+KEY {HOME}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom map out
+KEY {END}
+SHIFT=
+CTRL=
+ALT=

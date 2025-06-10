@@ -1,0 +1,174 @@
+GROUP Weapons
+COMMAND weapon one
+KEY 1
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon two
+KEY 2
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon three
+KEY 3
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon four
+KEY 4
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon five
+KEY 5
+SHIFT=
+CTRL=
+ALT=
+COMMAND weapon six
+KEY 6
+SHIFT=
+CTRL=
+ALT=
+COMMAND change ammo type
+KEY y
+SHIFT=
+CTRL=
+ALT=
+COMMAND reload
+KEY r
+SHIFT=
+CTRL=
+ALT=
+COMMAND grenade launcher
+KEY v
+SHIFT=
+CTRL=
+ALT=
+COMMAND next firing mode
+KEY 0
+SHIFT=
+CTRL=
+ALT=
+COMMAND previous firing mode
+KEY 9
+SHIFT=
+CTRL=
+ALT=
+GROUP Inventory
+COMMAND inventory
+KEY i
+SHIFT=
+CTRL=
+ALT=
+COMMAND active tasks in pda
+KEY p
+SHIFT=
+CTRL=
+ALT=
+COMMAND pda map
+KEY m
+SHIFT=
+CTRL=
+ALT=
+COMMAND pda contacts
+KEY h
+SHIFT=
+CTRL=
+ALT=
+COMMAND flashlight
+KEY l
+SHIFT=
+CTRL=
+ALT=
+COMMAND night vision
+KEY n
+SHIFT=
+CTRL=
+ALT=
+COMMAND quick bandage
+KEY ]
+SHIFT=
+CTRL=
+ALT=
+COMMAND quick medkit
+KEY [
+SHIFT=
+CTRL=
+ALT=
+COMMAND drop
+KEY g
+SHIFT=
+CTRL=
+ALT=
+GROUP Game
+COMMAND pause
+KEY {PAUSE}
+SHIFT=
+CTRL=
+ALT=
+COMMAND use
+KEY f
+SHIFT=
+CTRL=
+ALT=
+COMMAND screenshot
+KEY {F12}
+SHIFT=
+CTRL=
+ALT=
+COMMAND exit
+KEY {ESC}
+SHIFT=
+CTRL=
+ALT=
+GROUP Multiplayer
+COMMAND artifact
+KEY 7
+SHIFT=
+CTRL=
+ALT=
+COMMAND chat
+KEY ,
+SHIFT=
+CTRL=
+ALT=
+COMMAND team chat
+KEY .
+SHIFT=
+CTRL=
+ALT=
+COMMAND buy menu
+KEY b
+SHIFT=
+CTRL=
+ALT=
+COMMAND skin menu
+KEY o
+SHIFT=
+CTRL=
+ALT=
+COMMAND team menu
+KEY u
+SHIFT=
+CTRL=
+ALT=
+COMMAND begin voting
+KEY {F5}
+SHIFT=
+CTRL=
+ALT=
+COMMAND vote
+KEY {F6}
+SHIFT=
+CTRL=
+ALT=
+COMMAND vote no
+KEY {F7}
+SHIFT=
+CTRL=
+ALT=
+COMMAND vote yes
+KEY {F8}
+SHIFT=
+CTRL=
+ALT=

@@ -1,0 +1,108 @@
+GROUP Skills
+COMMAND skills
+KEY f
+SHIFT=
+CTRL=
+ALT=
+COMMAND skill six
+KEY 6
+SHIFT=
+CTRL=
+ALT=
+COMMAND skill seven
+KEY 7
+SHIFT=
+CTRL=
+ALT=
+COMMAND skill eight
+KEY 8
+SHIFT=
+CTRL=
+ALT=
+COMMAND skill nine
+KEY 9
+SHIFT=
+CTRL=
+ALT=
+COMMAND skill zero
+KEY 0
+SHIFT=
+CTRL=
+ALT=
+GROUP Menu
+COMMAND menu
+KEY {ESC}
+SHIFT=
+CTRL=
+ALT=
+COMMAND unpause
+KEY p
+SHIFT=
+CTRL=
+ALT=
+COMMAND pause
+KEY p
+SHIFT=
+CTRL=
+ALT=
+GROUP In Game
+COMMAND items
+KEY i
+SHIFT=
+CTRL=
+ALT=
+COMMAND treasure
+KEY a
+SHIFT=
+CTRL=
+ALT=
+COMMAND special  moves
+KEY c
+SHIFT=
+CTRL=
+ALT=
+COMMAND quests
+KEY l
+SHIFT=
+CTRL=
+ALT=
+COMMAND snapshot
+KEY b
+SHIFT=
+CTRL=1
+ALT=
+COMMAND heal
+KEY {SPACE}
+SHIFT=
+CTRL=
+ALT=
+COMMAND undead death
+KEY q
+SHIFT=
+CTRL=
+ALT=
+COMMAND antidote
+KEY e
+SHIFT=
+CTRL=
+ALT=
+COMMAND concentrate
+KEY r
+SHIFT=
+CTRL=
+ALT=
+COMMAND primary
+KEY 1
+SHIFT=
+CTRL=
+ALT=
+COMMAND close
+KEY {ESC}
+SHIFT=
+CTRL=
+ALT=
+COMMAND pick up
+KEY p
+SHIFT=
+CTRL=
+ALT=

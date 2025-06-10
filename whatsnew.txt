@@ -1,0 +1,88 @@
+v0.9 beta
+---------
+
+* Feature: Completely revamped recognition core now supports continuous speech recognition and better accuracy (you can say many commands in a single phrase without pausing between them).
+
+* Feature: Command recognition confidence threshold - PiLfIuS! only responds to commands when it has a reasonable certainty that it has recognized it correctly.
+
+* Feature: Interference detection
+
+* Feature: Significantly faster keystroke output
+
+* Feature: Hold key down for x milliseconds before release
+
+* Feature: Mouse button press and mouse wheel motion emulation
+
+* Feature: Allow key combinations recognized by Windows to be added (such as Ctrl-F4, Alt-F4, Ctrl-Alt-Del).
+
+* Feature: Repeat action (keystroke / mouse buttons) n times
+
+* Feature: Use mouse and joystick buttons or joystick HAT to trigger the activation feature (Push-to-activate, Push-to-deactivate, Push-to-toggle)
+
+* Feature: Option to disable command actions
+
+* Feature: Output of last recognized command
+
+* Feature: PiLfIuS! is restricted to one instance
+
+* Installer: (for Vista users) Installer will now install and register comdlg32.ocx and comdlg32.dll only if they don't exist already -regardless of version-.
+
+* Bugfix (introduced in 0.7): One of the processes causes the application to needlessly use a significant amount of idle processor resources.
+
+* Bugfix: When the last command in a Command List file has no keystrokes assigned, after loading the Command List and either speaking or clicking that command, the program crashes.
+
+* Bugfix: When closing a command list with unsaved changes, a dialog pops up asking whether you want to save. Answering "No" will prompt the dialog a second time, while unloading the main screen.
+
+* Bugfix: When closing a previously-unsaved command list with unsaved changes, answering "Yes" when prompted to save will cause the program to crash.
+
+* Bugfix: Pressing the CANCEL button at the SAVE AS... dialog when saving a Command List saves the file anyway.
+
+* Bugfix: Loading saved command lists containing keystrokes consisting of only shift, ctrl and/or alt resulted in corrupted commands, which would cause a CTD and other erratic behavior when recognized, or when certain actions are performed on them.
+
+* Bugfix: Under certain desktop styles, annoying scrollbars are visible along the bottom and right borders of the application.
+
+* Bugfix: About button can only be clicked on the first screen.
+
+
+v0.72 beta
+----------
+
+* Feature: Load command lists directly from command-line.
+
+* Bugfix: ALT key is not properly recognized by games.
+
+* Bugfix: If no Speech Recognition Engine is installed, the program will notify you with an error message. After you acknowledge that message, the program will crash.
+
+
+v0.7 beta
+---------
+
+* Feature: When run for the first time, user will be prompted to configure the Speech Recognition Engine and microphone.
+
+* Feature: New menu item to configure the Speech Recognition Engine and microphone.
+
+* Feature: Added ENTER, ESC, DEL, INSERT keys functionality to the GUI when logical.
+
+* Feature: Added Press-to-activate, Press-to-deactivate and Press-to-toggle functionality.
+
+* Bugfix: Certain games don't recognize PiLfIuS! keystrokes since they require the key to be depressed for a few milliseconds before release.
+
+* Bugfix: Clicking DELETE KEYSTROKE, MOVE KEYSTROKE UP/DOWN and DELETE COMMAND when there're items in the listbox, but none selected, causes a crash.
+
+* Bugfix: After a new GROUP is ADDed, next time ADD GROUP is opened, the group name entered previously will show.
+
+* Bugfix: Adding keystrokes consisting of only shift, ctrl and/or alt causes CTDs at several points.
+
+* Bugfix: After deleting a group, following groups show commands from the group that succeed them rather than their own.
+
+* Bugfix: INS, DEL, HOME, END, PGUP, PGDOWN, ARROW KEYS are not properly sent as keystrokes (will work OK with simple applications, but won't on most games).
+
+* Bugfix: Key combinations that contain SHIFT, CTRL and/or ALT do not work properly under certain games.
+
+* Legal: License terms changed to Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+
+
+v0.5 beta
+---------
+
+First public version.

@@ -1,0 +1,341 @@
+GROUP Battlemap - Selection
+COMMAND group one
+KEY 1
+SHIFT=
+CTRL=
+ALT=
+COMMAND group two
+KEY 2
+SHIFT=
+CTRL=
+ALT=
+COMMAND group three
+KEY 3
+SHIFT=
+CTRL=
+ALT=
+COMMAND group four
+KEY 4
+SHIFT=
+CTRL=
+ALT=
+COMMAND group five
+KEY 5
+SHIFT=
+CTRL=
+ALT=
+COMMAND group six
+KEY 6
+SHIFT=
+CTRL=
+ALT=
+COMMAND group seven
+KEY 7
+SHIFT=
+CTRL=
+ALT=
+COMMAND group eight
+KEY 8
+SHIFT=
+CTRL=
+ALT=
+COMMAND group nine
+KEY 9
+SHIFT=
+CTRL=
+ALT=
+COMMAND group ten
+KEY 0
+SHIFT=
+CTRL=
+ALT=
+COMMAND assign group one
+KEY 1
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group two
+KEY 2
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group three
+KEY 3
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group four
+KEY 4
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group five
+KEY 5
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group six
+KEY 6
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group seven
+KEY 7
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group eight
+KEY 8
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group nine
+KEY 9
+SHIFT=
+CTRL=1
+ALT=
+COMMAND assign group ten
+KEY 0
+SHIFT=
+CTRL=1
+ALT=
+COMMAND group units
+KEY g
+SHIFT=
+CTRL=
+ALT=
+COMMAND disband
+KEY g
+SHIFT=
+CTRL=
+ALT=
+GROUP Battlemap - Formation
+COMMAND tight formation
+KEY c
+SHIFT=
+CTRL=
+ALT=
+COMMAND loose formation
+KEY c
+SHIFT=
+CTRL=
+ALT=
+COMMAND single line
+KEY 1
+SHIFT=1
+CTRL=
+ALT=
+COMMAND sorted single line
+KEY 2
+SHIFT=1
+CTRL=
+ALT=
+COMMAND double line
+KEY 3
+SHIFT=1
+CTRL=
+ALT=
+COMMAND sorted double line
+KEY 4
+SHIFT=1
+CTRL=
+ALT=
+COMMAND missile first
+KEY 5
+SHIFT=1
+CTRL=
+ALT=
+COMMAND infantry first
+KEY 6
+SHIFT=1
+CTRL=
+ALT=
+COMMAND cavalry first
+KEY 7
+SHIFT=1
+CTRL=
+ALT=
+COMMAND formation column
+KEY 8
+SHIFT=1
+CTRL=
+ALT=
+GROUP Battlemap - Movement
+COMMAND stop
+KEY {BACKSPACE}
+SHIFT=
+CTRL=
+ALT=
+COMMAND run
+KEY r
+SHIFT=
+CTRL=
+ALT=
+COMMAND walk
+KEY r
+SHIFT=
+CTRL=
+ALT=
+GROUP Battlemap - Engagement
+COMMAND rally the troops
+KEY f
+SHIFT=
+CTRL=
+ALT=
+COMMAND skirmish
+KEY s
+SHIFT=
+CTRL=
+ALT=
+COMMAND fire at will
+KEY a
+SHIFT=
+CTRL=
+ALT=
+COMMAND withdraw
+KEY w
+SHIFT=
+CTRL=1
+ALT=
+COMMAND run for your lives
+KEY r
+SHIFT=
+CTRL=1
+ALT=
+COMMAND hold your fire
+KEY a
+SHIFT=
+CTRL=
+ALT=
+COMMAND stand and fight
+KEY s
+SHIFT=
+CTRL=
+ALT=
+COMMAND defend
+KEY d
+SHIFT=
+CTRL=
+ALT=
+COMMAND flaming ammo
+KEY f
+SHIFT=
+CTRL=
+ALT=
+GROUP Battlemap - Other
+COMMAND pause game
+KEY p
+SHIFT=
+CTRL=
+ALT=
+GROUP Worldmap - All
+COMMAND quick save
+KEY s
+SHIFT=
+CTRL=1
+ALT=
+COMMAND quick load
+KEY l
+SHIFT=
+CTRL=1
+ALT=
+COMMAND speed up animation
+KEY {SPACE}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom to capital
+KEY h
+SHIFT=
+CTRL=
+ALT=
+COMMAND display standards
+KEY j
+SHIFT=
+CTRL=
+ALT=
+COMMAND toggle character labels
+KEY n
+SHIFT=
+CTRL=1
+ALT=
+COMMAND toggle settlement labels
+KEY t
+SHIFT=
+CTRL=1
+ALT=
+COMMAND diplomacy
+KEY d
+SHIFT=
+CTRL=
+ALT=
+COMMAND finances
+KEY f
+SHIFT=
+CTRL=
+ALT=
+COMMAND senate
+KEY ;
+SHIFT=
+CTRL=
+ALT=
+COMMAND reset rally points
+KEY {DEL}
+SHIFT=
+CTRL=
+ALT=
+COMMAND automerge units
+KEY m
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom in radar
+KEY {F2}
+SHIFT=
+CTRL=
+ALT=
+COMMAND zoom out radar
+KEY {F3}
+SHIFT=
+CTRL=
+ALT=
+COMMAND recruitment
+KEY r
+SHIFT=
+CTRL=
+ALT=
+COMMAND construction
+KEY b
+SHIFT=
+CTRL=
+ALT=
+COMMAND faction
+KEY o
+SHIFT=
+CTRL=
+ALT=
+COMMAND dismiss advise
+KEY x
+SHIFT=
+CTRL=
+ALT=
+COMMAND advance advise
+KEY z
+SHIFT=
+CTRL=
+ALT=
+COMMAND toggle sound
+KEY s
+SHIFT=
+CTRL=
+ALT=1
+COMMAND toggle music
+KEY m
+SHIFT=
+CTRL=
+ALT=1
+COMMAND close
+KEY {ESC}
+SHIFT=
+CTRL=
+ALT=
