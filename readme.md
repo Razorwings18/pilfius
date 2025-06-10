@@ -114,7 +114,9 @@ Oh. And PiLfIuS! does not contain spyware in any shape or form. It's a shame I e
 -------------------
 
 Skularach, for testing and feedback in the closed beta for v0.7
+
 Bashar711, carlo maker and GinSoakedBoy for their extensive testing and suggestions in the closed beta for v0.9
+
 Everyone who's posted bug reports, suggestions and comments at the forums (yeah, this thing had an active forum even).
 
 PiLfIuS! has become a better application thanks to you; the users and I appreciate your involvement in the project.
