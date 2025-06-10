@@ -20,6 +20,8 @@ INDEX
 7. Legal stuff
 8. Acknowledgements
 
+![shot2](https://github.com/user-attachments/assets/173584ee-0dce-44ee-b811-7e5ec343976e)
+
 1. What is PiLfIuS?
 --------------------
 
