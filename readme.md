@@ -2,7 +2,8 @@ PROJECT STATUS WARNING!!!
 -------------------------
 THIS IS AN ANCIENT PROJECT AND IS UNMAINTAINED! I'm uploading it for its archival value since it was a relative hit a couple of decades ago, when controlling your home computer (especially games) with your speech was bordering science fiction.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cfQu2nuDt8A/0.jpg)](http://www.youtube.com/watch?v=cfQu2nuDt8A "PiLfIUs! demonstration")
+Click below for video demo:
+[![PiLfIuS! demonstration](http://img.youtube.com/vi/cfQu2nuDt8A/0.jpg)](http://www.youtube.com/watch?v=cfQu2nuDt8A "PiLfIuS! demonstration")
 
 PiLfIuS!: Speech recognition with Gamers in mind
 ------------------------------------------------
@@ -24,6 +25,7 @@ INDEX
 PiLfIuS! is a FREE speech recognition and command application specifically written with gamers in mind. It will identify whatever commands you speak into your microphone, and send keystrokes accordingly. Commands, and their respective keystrokes are fully configurable by the user.
 
 Unlike many other speech recognition applications, keystrokes sent by PiLfIuS! should be recognized by ANY application, since these programs will not tell the difference between a keystroke sent by your keyboard, and a keystroke sent as a result of your voice commands.
+
 
 
 
