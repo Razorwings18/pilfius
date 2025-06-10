@@ -2,7 +2,8 @@ PROJECT STATUS WARNING!!!
 -------------------------
 THIS IS AN ANCIENT PROJECT AND IS UNMAINTAINED! I'm uploading it for its archival value since it was a relative hit a couple of decades ago, when controlling your home computer (especially games) with your speech was bordering science fiction.
 
-Click below for video demo:
+Click below for video demo on YouTube:
+
 [![PiLfIuS! demonstration](http://img.youtube.com/vi/cfQu2nuDt8A/0.jpg)](http://www.youtube.com/watch?v=cfQu2nuDt8A "PiLfIuS! demonstration")
 
 PiLfIuS!: Speech recognition with Gamers in mind
